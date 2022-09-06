@@ -1,0 +1,28 @@
+{
+  "name": "sit725-2022-t1-prac5",
+  "version": "1.0.0",
+  "description": "week 4 prac for SIT 725 2022",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshatarora02/sit725-2022-t2-prac5.git"
+  },
+  "keywords": [
+    "Express",
+    "NodeJs"
+  ],
+  "author": "Akshat Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshatarora02/sit725-2022-t2-prac5/issues"
+  },
+  "homepage": "https://github.com/akshatarora02/sit725-2022-t2-prac5#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongodb": "^4.9.0"
+  }
+}
